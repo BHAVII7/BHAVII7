@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @BHAVII7
-- 👀 I’m interested in CYBER SECURITY
-- 🌱 I’m currently learning ETHICAL HACKING
-- 💞️ I’m looking for HACKER SQUAD
-- 📫 How to reach me MY WHATAPP NO : 908286981 MY INSTAGRAM HANDLE LOVE_FOR_LIFETIME
-- ⚡ Fun fact: I LOVE TO PLAY ONLINE GAMES 
-- DM TO KNOW MORE ABOUT ME
-<!---
-BHAVII7/BHAVII7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring SOC Analyst and VAPT Professional with Hands-on Experience in Vulnerability Scanning and Threat Detection.
+Skilled in using Tools like Splunk for Log Analysis, Wireshark for Packet Inspection, and Nmap for Network Mapping.
+Capable of Identifying Security Loopholes and Assisting in Incident Response and Monitoring.
+Deep Understanding of Attack Methodologies, Intrusion Detection, and Report Documentation.
+Collaborated on Red-Team/Blue-Team Styled Academic Projects and Simulations During CyberSecurity Training.
+Eager to Join a Security Operations or VAPT Team to Contribute to Real-Time Cyber Defense Efforts.
